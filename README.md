@@ -20,6 +20,14 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="75" height="75"/></img>
 </p> 
 
+#### Some of my favorite frameworks to use are:
+
+<p align="left">
+ <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react-native" width="75" height="75"/></img>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="75" height="75"/></img>
+ <img src="https://camo.githubusercontent.com/f95a10951b95c3e1cabbff45200a95322643e128f5e05c4cc7731a868f9fd069/68747470733a2f2f66697265626173652e676f6f676c652e636f6d2f646f776e6c6f6164732f6272616e642d67756964656c696e65732f504e472f6c6f676f2d766572746963616c2e706e67" alt="firebase" width="75" height="75"/></img>
+ <img src="https://mpng.subpng.com/20180630/bwv/kisspng-node-js-javascript-express-js-npm-mongodb-5b37b021a9a8d7.5891635115303762256949.jpg" alt="node.js" width="75" height="75"/></img>
+</p> 
 
 
 
