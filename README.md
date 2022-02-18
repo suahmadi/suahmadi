@@ -24,7 +24,7 @@
 
 <p align="left">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" alt="react-native" width="7%" height="7%"/></img>
- <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="100%" height="100%"/></img>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="10%" height="10%"/></img>
  <img src="https://camo.githubusercontent.com/f95a10951b95c3e1cabbff45200a95322643e128f5e05c4cc7731a868f9fd069/68747470733a2f2f66697265626173652e676f6f676c652e636f6d2f646f776e6c6f6164732f6272616e642d67756964656c696e65732f504e472f6c6f676f2d766572746963616c2e706e67" alt="firebase" width="7%" height="7%"/></img>
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png" alt="node.js" width="75" height="75"/></img>
 </p> 
