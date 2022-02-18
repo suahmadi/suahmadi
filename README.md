@@ -2,7 +2,7 @@
 **suahmadi/suahmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi, I'm Sultan
+# Hi, I'm Sultan :thumbsup:
 
 #### I'm a student at Purdue University currently in my senior year studying Computer Science with concentration in Software Engieering. 
 
