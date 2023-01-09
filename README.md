@@ -4,7 +4,7 @@
 
 # Hi, I'm Sultan :thumbsup:
 
-#### I'm a student at Purdue University currently in my senior year studying Computer Science with concentration in Software Engieering. 
+#### I'm a Software Engineer at Purdue University  
 
 
 ![Sultan's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=suahmadi&show_icons=true&theme=tokyonight)
