@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Enginner @ Purdue University<br><br>currently working on Quickfund.io
+Software Enginner @ Aramco<br><br>currently working on Quickfund.io
 
 
 ## 🌐 Socials:
