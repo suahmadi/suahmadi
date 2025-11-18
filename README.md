@@ -1,5 +1,5 @@
 # About Me:
-developer/analyst & Purdue University alum
+developer/analyst • Purdue University alum
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=suahmadi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
